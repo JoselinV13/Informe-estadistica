@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1645928064 "c:/Users/rafae/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/TERCER SEMESTRE/PROBABILIDAD Y ESTADISTICA/PROYECTO BIMESTRE II/INFORME/main.tex" "build/main.pdf" "main" 1645928074
+["pdflatex"] 1646028819 "c:/Users/rafae/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/TERCER SEMESTRE/PROBABILIDAD Y ESTADISTICA/PROYECTO BIMESTRE II/INFORME/main.tex" "build/main.pdf" "main" 1646028824
   "C:/Users/rafae/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645910685 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/rafae/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1200.pk" 1645764086 15080 ead19f40d9bbe1a07e91d04ef3362e88 ""
   "C:/Users/rafae/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1645763958 9769967 8efcb2f8151b255ca9e3c411fb2fa7f4 ""
@@ -29,6 +29,7 @@
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
+  "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1247596666 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
@@ -41,6 +42,7 @@
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1247596667 32587 65067f817f408bc71a7312f3d9828a9b ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
+  "C:/Users/rafae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb" 1247596670 30273 87a352d78b6810ae5cfdc68d2fb827b2 ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1638206364 147900 18d47b4bbea226e862cd49f17ede0392 ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/tex/generic/babel/txtbabel.def" 1638206364 5233 a89961f969f72563cb59411e9dc4ae8e ""
@@ -78,10 +80,11 @@
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1615976118 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "C:/Users/rafae/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1636710260 32262 2bb622a0aa56c4a7a5cbdfe9d122c15a ""
   "Imagen1.png" 1645308448 69689 b8d93bc1f4014b03f158dd105dbd1ce0 ""
-  "build/main.aux" 1645928071 1684 33e8dec0245c38f8c079cb48182ac55c "pdflatex"
-  "c:/Users/rafae/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/TERCER SEMESTRE/PROBABILIDAD Y ESTADISTICA/PROYECTO BIMESTRE II/INFORME/main.tex" 1645928061 7803 90ab7bba9201b74da9cabfedd7fb46ca ""
+  "WhatsApp Image 2022-02-28 at 1.07.56 AM.jpeg" 1646028522 166711 146eecde65b241915453e6b6855575e0 ""
+  "build/main.aux" 1646028823 2809 37577c3bb1c67831b366e1c0ff5ee7cb "pdflatex"
+  "c:/Users/rafae/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/TERCER SEMESTRE/PROBABILIDAD Y ESTADISTICA/PROYECTO BIMESTRE II/INFORME/main.tex" 1646028816 14434 73ba4043c9dbdb0ed89f3727e6f29b88 ""
   "descarga (1).png" 1645308448 13584 cee468d8b93f91ca8150754f493e3fec ""
-  "main.tex" 1645928061 7803 90ab7bba9201b74da9cabfedd7fb46ca ""
+  "main.tex" 1646028816 14434 73ba4043c9dbdb0ed89f3727e6f29b88 ""
   (generated)
   "build/main.aux"
   "build/main.log"
